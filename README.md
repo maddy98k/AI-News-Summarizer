@@ -3,7 +3,7 @@
 An AI-powered News Summarizer built using **Python, Gradio, Gemini, Tavily, and LangChain**.
 
 This application allows users to search for the latest news and receive concise, easy-to-understand summaries using AI.
-
+Demo Link :- "https://ai-news-summarizer-pyujvzghgiukb5qbbdrkc5.streamlit.app/"
 ---
 
 ## 🚀 Features
